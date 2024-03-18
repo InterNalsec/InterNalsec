@@ -2,7 +2,7 @@ Hi, I’m @InterNalsec. I am a website developer and cybersec
 
 
 <html>
-  <body><img src="https://cdn-icons-png.flaticon.com/512/5253/5253963.png" width="800" height="600">Internal Sec</img>
+  <body><span class="fa-solid fa-badge-check" style="color: #74C0FC;"></span>Internal Sec
   </body>
 </html>
 <!---
