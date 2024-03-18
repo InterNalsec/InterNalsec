@@ -1,10 +1,8 @@
 Hi, I’m @InterNalsec. I am a website developer and cybersec 
 
+
 <html>
-  <head>
-    <title>Hello Guys</title>
-  </head>
-  <body><i class="fa-solid fa-badge-check" style="color: #74C0FC;"></i>Internal Sec
+  <body><img src="https://cdn-icons-png.flaticon.com/512/5253/5253963.png">Internal Sec</img>
   </body>
 </html>
 <!---
